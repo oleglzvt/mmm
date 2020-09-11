@@ -1,0 +1,11 @@
+.mainHeader_inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+        a {
+            font-size: 25px;
+            color: $dark;
+            font-weight: 700;
+        }
+}
